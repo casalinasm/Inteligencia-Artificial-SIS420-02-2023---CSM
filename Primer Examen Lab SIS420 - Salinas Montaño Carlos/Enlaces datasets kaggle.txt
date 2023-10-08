@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price - REGRESION MULTIVARIABLE
+https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset - REGRESION LOGISTICA
+https://www.kaggle.com/datasets/marilynka/my-mnist?select=train.csv - CLASIFICACION MULTICLASE
+
